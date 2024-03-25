@@ -3,3 +3,5 @@
 [参考文档](https://blog.csdn.net/chunlaiqingke/article/details/136609765)。
 ### cron生成器
 [参考文档](https://blog.csdn.net/chunlaiqingke/article/details/136796114)
+### sqlQuery
+[参考文档](https://blog.csdn.net/chunlaiqingke/article/details/136986794)
